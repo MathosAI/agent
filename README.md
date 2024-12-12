@@ -1,7 +1,3 @@
-Certainly! Here’s a detailed and technical description of the AI designed to solve unsolved mathematical theorems for a GitHub repository:
-
----
-
 ## AI Agent for Solving Unsolved Mathematical Theorems
 
 ### Overview
@@ -82,9 +78,3 @@ We welcome contributions to this project. Developers and researchers in the fiel
 - Improving the symbolic reasoning engine
 - Enhancing machine learning models for pattern recognition
 - Integrating with additional proof assistants and theorem-proving systems
-
-For more information, refer to the [Contributing Guidelines](CONTRIBUTING.md).
-
----
-
-This description provides a comprehensive overview of the AI agent, its functionality, and the technology behind it. You can now post it to GitHub to attract collaborators and showcase the technical aspects of the project.
