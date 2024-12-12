@@ -1,7 +1,7 @@
-## AI Agent for Solving Unsolved Mathematical Theorems
+## AI Agent for Unsolved Mathematical Theorems
 
 ### Overview
-This AI Agent is an advanced computational system designed to assist in solving unsolved mathematical theorems. By combining state-of-the-art machine learning techniques, symbolic reasoning, and mathematical modeling, the AI aims to provide novel insights, generate hypotheses, and propose potential solutions to long-standing open problems in mathematics. The system employs a hybrid approach that integrates traditional theorem-proving methods with modern AI capabilities, leveraging both automated reasoning and heuristic-based searches.
+This AI Agent is an advanced computational system designed to assist in unsolved mathematical theorems. By combining state-of-the-art machine learning techniques, symbolic reasoning, and mathematical modeling, the AI aims to provide novel insights, generate hypotheses, and propose potential solutions to long-standing open problems in mathematics. The system employs a hybrid approach that integrates traditional theorem-proving methods with modern AI capabilities, leveraging both automated reasoning and heuristic-based searches.
 
 ### Key Features
 - **Symbolic Reasoning:** Uses formal logic and symbolic manipulation to explore and derive mathematical conclusions.
